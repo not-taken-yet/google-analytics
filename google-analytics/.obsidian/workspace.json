@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "101 beginner/03 Structure of Google Analytics account.md",
+                "file": "101 beginner/06 Confirmation of data being collected.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 Structure of Google Analytics account"
+              "title": "06 Confirmation of data being collected"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101 beginner/03 Structure of Google Analytics account.md",
+                "file": "101 beginner/06 Confirmation of data being collected.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 03 Structure of Google Analytics account"
+              "title": "Backlinks for 06 Confirmation of data being collected"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101 beginner/03 Structure of Google Analytics account.md",
+                "file": "101 beginner/06 Confirmation of data being collected.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 03 Structure of Google Analytics account"
+              "title": "Outgoing links from 06 Confirmation of data being collected"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101 beginner/03 Structure of Google Analytics account.md",
+                "file": "101 beginner/06 Confirmation of data being collected.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 03 Structure of Google Analytics account"
+              "title": "Outline of 06 Confirmation of data being collected"
             }
           }
         ]
@@ -185,14 +185,17 @@
   },
   "active": "645d9ff03bb176f7",
   "lastOpenFiles": [
-    "101 beginner/02 How google analytics handles data.md",
-    "101 beginner/01 Usage of digital analytics to grow business.md",
+    "101 beginner/05 Mobile app setting for data collection.md",
+    "101 beginner/04 Website setting for data collection.md",
     "101 beginner/03 Structure of Google Analytics account.md",
+    "101 beginner/06 Confirmation of data being collected.md",
+    "101 beginner/02 How google analytics handles data.md",
+    "intro.md",
+    "101 beginner/01 Usage of digital analytics to grow business.md",
     "101 beginner/images/food-delivery-account.png",
     "101 beginner/images/game-app-account.png",
     "101 beginner/images/marketing-funnel.png",
     "101 beginner/images/fashion-blog-account.png",
-    "intro.md",
     "101 beginner/images",
     "301 advanced",
     "201 intermediate",
